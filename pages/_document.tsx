@@ -3,7 +3,7 @@ export default function Document() {
   return (
     <Html>
       <Head />
-      <body className={"bg-gray-100"}>
+      <body>
         <Main />
         <NextScript />
       </body>
